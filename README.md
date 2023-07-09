@@ -11,7 +11,7 @@ Make sure you have python installed, then using terminal/cmd navigate to the clo
 
     pip install -r requirements.txt
 
-Go to alerts.py and portfolio.py and put your API key in api_key = 'Your-API-here'
+Go to alerts.py and portfolio.py and put your API key in api_key = 'Your-API-Key'
 
 [Get your API key here.](https://coinmarketcap.com/api/)
 
