@@ -1,0 +1,5 @@
+requests
+prettytable
+colorama
+pyttsx3
+datetime
